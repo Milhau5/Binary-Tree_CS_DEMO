@@ -1,0 +1,6 @@
+C:\Application\106 GDAPS2\Demo\Binary-Tree_DEMO\Binary-Tree_DEMO\bin\Debug\Binary-Tree_DEMO.exe.config
+C:\Application\106 GDAPS2\Demo\Binary-Tree_DEMO\Binary-Tree_DEMO\bin\Debug\Binary-Tree_DEMO.exe
+C:\Application\106 GDAPS2\Demo\Binary-Tree_DEMO\Binary-Tree_DEMO\bin\Debug\Binary-Tree_DEMO.pdb
+C:\Application\106 GDAPS2\Demo\Binary-Tree_DEMO\Binary-Tree_DEMO\obj\Debug\Binary-Tree_DEMO.csprojResolveAssemblyReference.cache
+C:\Application\106 GDAPS2\Demo\Binary-Tree_DEMO\Binary-Tree_DEMO\obj\Debug\Binary-Tree_DEMO.exe
+C:\Application\106 GDAPS2\Demo\Binary-Tree_DEMO\Binary-Tree_DEMO\obj\Debug\Binary-Tree_DEMO.pdb
